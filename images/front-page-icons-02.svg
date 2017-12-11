@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="177.3083mm"
+   height="83.561005mm"
+   viewBox="0 0 628.25777 296.0823"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="front-page-icons-01.svg">
+  <style>
+  
+    /* The animation code */
+    
+    @keyframes a-1 {
+      from { fill: red }
+      to { fill: yellow }
+    } 
+    
+    @keyframes a-2 {
+      from { fill: orange }
+      to { fill: purple }
+    } 
+    
+    @keyframes a-3 {
+      from { fill: yellow }
+      to { fill: blue }
+    } 
+    
+    @keyframes a-4 {
+      from { fill: black }
+      to { fill: red }
+    } 
+    
+    @keyframes a-5 {
+      from { fill: black }
+      to { fill: blue }
+    } 
+
+    /* The element to apply the animation to */
+        
+    #rect4222, #rect4234, #rect4224, #rect4232, #rect4228, #rect4238 {
+      animation-direction: alternate;
+      animation-iteration-count: infinite;
+    }
+    
+    #rect4222 {
+      animation-name: a-1;
+      animation-duration: 2s;
+    }
+
+    #rect4234 {
+      animation-name: a-2;
+      animation-duration: 1.5s;
+    }
+    
+    #rect4224 {
+      animation-name: a-3;
+      animation-duration: 1.7s;
+    }
+    
+    #rect4232, #rect4228 {
+      animation-name: a-4;
+      animation-duration: 1s;
+    }
+    
+    #rect4238 {
+      animation-name: a-5;
+      animation-duration: 4s;
+    }
+  
+  
+  </style>
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.52154064"
+     inkscape:cx="375.75635"
+     inkscape:cy="-213.93257"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="807"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-57.409813,-57.45083)">
+    <g
+       transform="matrix(1,0,0.17632698,1,-14.766605,-59.853087)"
+       id="g4220">
+      <rect
+         style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4222"
+         width="141.60457"
+         height="195"
+         x="51.492573"
+         y="117.30392" />
+      <rect
+         y="117.30392"
+         x="196.608"
+         height="95.963425"
+         width="286"
+         id="rect4224"
+         style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="117.30392"
+         x="486.83884"
+         height="95.963425"
+         width="141.60457"
+         id="rect4228"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4232"
+         width="141.60457"
+         height="95.963425"
+         x="196.608"
+         y="217.36334" />
+      <rect
+         y="217.36334"
+         x="341.72342"
+         height="195"
+         width="286"
+         id="rect4234"
+         style="opacity:1;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         style="opacity:1;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4238"
+         width="286"
+         height="95.963425"
+         x="51.492573"
+         y="317.42279" />
+    </g>
+  </g>
+</svg>

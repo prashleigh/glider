@@ -1,0 +1,45 @@
+
+
+
+    <div id="sidebar">
+      <div class="inner">
+        
+        <nav id="menu">
+          <header class="major">
+            <h2>Menu</h2>
+          </header>
+          <ul>
+            <li><a href="index.html">Homepage</a>
+            </li>
+            <li><a href="details.html">Details</a>
+            </li>
+            <li><a href="people.html">Development team</a>
+            </li>
+            <!--
+            <li><a href="contact.html">Contact</a>
+            </li>-->
+          </ul>
+        </nav>
+
+        <!-- Section -->
+        <section>
+          <header class="major">
+            <h2>Get in touch</h2>
+          </header>
+          <p>Please feel free to contact us with questions, or if you're interested in trying out Glider as it's being developed. We'll be looking for feedback!</p>
+          <ul class="contact">
+            <li class="fa-envelope-o"><a href="#">glider at brown.edu</a>
+            </li>
+            <li class="fa-home"><a href="http://library.brown.edu">Brown University Library</a>
+            </li>
+          </ul>
+        </section>
+
+        <!-- Footer -->
+        <footer id="footer">
+          <p class="copyright"><i class="fa fa-creative-commons"></i> Brown University. Glider is an open source project. The website template is called "Editorial" and it's from <a href="https://html5up.net">HTML5 UP</a>.</p>
+        </footer>
+
+      </div>
+    </div>
+
